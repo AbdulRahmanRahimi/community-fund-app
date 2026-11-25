@@ -1,6 +1,6 @@
 # Community Fund App
 
-> **Client project** · Built by [Rahimi Tech Solution](https://github.com/rahimiabdulrahmanab) · The source code is private to the client.
+> **Client project** · Built by [Rahimi Tech Solution](https://github.com/AbdulRahmanRahimi) · The source code is private to the client.
 
 A private web app for a community in British Columbia whose members pay into a shared monthly fund and lend to one another **interest-free, by member vote**. It replaces the leader's hand-kept records.
 
